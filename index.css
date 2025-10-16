@@ -38,7 +38,7 @@ header {
   justify-content: center;
   align-items: center;
   gap: 40px;
-  padding: 20px 20px;
+  padding: 10px 20px;
   flex-wrap: wrap; /* Adaptable a móvil */
 }
 
@@ -75,7 +75,7 @@ header {
   align-items: center;
   gap: 60px;
   flex-wrap: wrap;
-  padding: 40px 20px;
+  padding:20px 20px;
   background: #000; /* Fondo negro total */
 }
 
